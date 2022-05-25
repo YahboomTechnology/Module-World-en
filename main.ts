@@ -5,7 +5,7 @@ modified from chengengyue
 
 
 //% color="#228B22" weight=25 icon="\uf0b2"
-namespace ModuleWorld_Digital {
+namespace Module_Digital {
 	
     export enum mwDigitalNum {
         //% blockId="P0P1" block="P0P1"
@@ -319,7 +319,7 @@ namespace ModuleWorld_Digital {
 }
 
 //% color="#C814B8" weight=24 icon="\uf1d4"
-namespace ModuleWorld_Analog {
+namespace Module_Analog {
 
     export enum enRocker {
         //% blockId="NoState" block="NoState"
@@ -434,7 +434,7 @@ namespace ModuleWorld_Analog {
 }
 
 //% color="#ECA40D" weight=22 icon="\uf085"
-namespace ModuleWorld_PWM {
+namespace Module_PWM {
 
     export enum enColor {
         //% blockId="OFF" block="OFF"
